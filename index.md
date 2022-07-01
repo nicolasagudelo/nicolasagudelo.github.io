@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[test](https://github.com/nicolasagudelo/excursion/blob/main/index.html)
+[test](https://nicolasagudelo.github.io/excursion/)
 
 You can use the [editor on GitHub](https://github.com/nicolasagudelo/nicolasagudelo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
